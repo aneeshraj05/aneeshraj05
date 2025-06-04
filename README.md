@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/81bb4b165684019.640b6038d133e.gif)](https://yourportfolio.com)
 
 <h1 align="center">Hi 👋, I'm Aneesh Raj</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h3 align="center">A passionate Web Developer</h3>
 <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="coding" width="400" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aneeshraj05&label=Profile%20views&color=0e75b6&style=flat" alt="aneeshraj05" /> </p>
 
