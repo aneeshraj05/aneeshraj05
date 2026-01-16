@@ -1,14 +1,4 @@
 
-<!--
-    Dear user using my README as a base
-    to create your own, I’m happy to authorize its use
-    and I’m glad you liked it! I just kindly ask for one thing:
-
-    Please, leave a star on my README it would truly make my day :)
-    GitHub: https://github.com/Glauedson
--->
-
-<!-- Banner  -->
 <a href="https://github.com/aneeshraj05">
   <img src="assets/images/image.png" alt="Banner"  style="width:100%; height:auto"/>
 </a>
@@ -112,7 +102,7 @@ At present, I spend most of my time on `academic projects and independent develo
   <tr>
     <!-- Skills Left -->
     <td valign="top" width="45%">
-      <img src="./assets/images/Stac.png">
+      <img src="./assets/images/stac.png">
       </br>
       </br>
       <img src="https://skillicons.dev/icons?i=html,css,js,ts" /><br>
