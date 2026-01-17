@@ -108,8 +108,7 @@ At present, I spend most of my time on `academic projects and independent develo
       <img src="https://skillicons.dev/icons?i=mysql,vite,postman,git" /><br>
       <img src="https://skillicons.dev/icons?i=github,figma,vercel,vim" /><br>
     </td>
-
-    <td valign="bottom" width="55%">
+ <td valign=" center" width="55%">
       <a href="https://git.io/streak-stats">
         <img
           src="https://streak-stats.demolab.com?user=aneeshraj05&theme=dark&background=0D0D0D&ring=FF1001&fire=FF1001&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF1001&sideLabels=FF1001&dates=FFFFFF&card_width=401"
@@ -117,11 +116,10 @@ At present, I spend most of my time on `academic projects and independent develo
         />
       </a>
     </td>
+   
   </tr>
 </table>
 
 
-<!--
-<img src="https://steamcdn-a.akamaihd.net/steam/apps/1382330/extras/2-citynightmare.gif?t=1608034435">
--->
+
 
