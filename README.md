@@ -101,12 +101,12 @@ At present, I spend most of my time on `academic projects and independent develo
 <table align="center">
   <tr>
     <td valign="center" width="45%">
-      <img src="./assets/images/stac.png">
+      <img src="./assets/images/stac.png"   style="width:300px" valign>
       <br><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts" /><br>
-      <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" /><br>
-      <img src="https://skillicons.dev/icons?i=mysql,vite,postman,git" /><br>
-      <img src="https://skillicons.dev/icons?i=github,figma,vercel,vim" /><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,bash" /><br>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,java" /><br>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,vite,postman,git" /><br>
+      <img src="https://skillicons.dev/icons?i=github,figma,vercel,vim,linux" /><br>
     </td>
  
    
