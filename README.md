@@ -39,13 +39,8 @@
 
 </div>
 
-<div align="justify">
-
-I am a third-year college student working toward a career as a `Full Stack Developer`. I am currently focused on building strong fundamentals in software development through coursework and practical projects.
-
-I work mainly with `web technologies`, with experience in both `front-end` and `back-end development`. My work involves designing user interfaces, implementing application logic, and connecting applications to databases and APIs.
-
-At present, I spend most of my time on `academic projects and independent development work`, where I handle tasks from basic planning to implementation. This has helped me improve my ability to write maintainable code, understand application structure, and solve technical problems effectively.
+<div align="center"  >
+I am a third-year college student preparing for a career as a Full Stack Developer. I work with web technologies on both the front end and back end, where I build user interfaces, write server-side logic, and integrate applications with databases and APIs. Through academic and independent projects, I handle development from planning to implementation, which has helped me steadily improve my code quality and overall understanding of application structure
 
 </div>
 
